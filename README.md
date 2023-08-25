@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  /></a>
 <a href= "https://react.dev" target = "blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  /></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+<a href="https://redux-toolkit.js.org" target="blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="55"/>
 <a/>
 </div>
