@@ -46,7 +46,6 @@
 ###
 
 <div align="left">
- <a href="https://mail.google.com" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/kübra-emektar-184103267/" target="blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  /> </a>
 </div>
