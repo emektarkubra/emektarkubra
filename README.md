@@ -5,10 +5,9 @@
 
 ###
 
-<p align="left">📚 I’m currently focusing o React and exploring state management with Redux..<br>
-👨‍💻  All of my projects are available at <a href="https://github.com/emektarkubra">https://github.com/emektarkubra</a>
-<br>
-🎯  My primary goal revolves around further refining my skills in the front-end domain, aiming to become a proficient and innovative developer.</p>
+<p align="left">📚 I’m currently focusing on React, Next and Typescipt 
+  <br>
+🎯  My first primary goal revolves around further refining my skills in the front-end domain, aiming to become a proficient and innovative developer.</p>
 
 ###
 
