@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">📚 I’m currently focusing on React, Next and Typescipt 
+<p align="left">📚 I’m currently focusing on React, Next, Typescipt and Node.js
   <br>
 🎯  My first primary goal revolves around further refining my skills in the front-end domain, aiming to become a proficient and innovative developer.</p>
 
