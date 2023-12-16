@@ -1,7 +1,7 @@
 
 ###
 
-<h2 align="center">Jr. Front-End Developer from Turkey</h2>
+<h2 align="center">Frontend Developer from Turkey</h2>
 
 ###
 
@@ -28,6 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  /></a>
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="45"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="45/> </a>
+                                                                         <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"> 
+  <img src="https://mui.com/static/logo.png" alt="materialui" height="45"/>
+</a>
 <a href= "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  /></a>
 <a href= "https://react.dev" target = "blank">
@@ -35,6 +38,13 @@
 <a href="https://redux-toolkit.js.org" target="blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="45"/>
 <a/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="45"/> 
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="40"/>
+</a>
+
 </div>
 
 
