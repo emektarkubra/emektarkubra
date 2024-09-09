@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">📚 I’m currently focusing on React, Next, Typescipt and Node.js
+<p align="left">📚 I'm currently learning Java..
   <br>
 🎯  My first primary goal revolves around further refining my skills, aiming to become a proficient and innovative developer.</p>
 
