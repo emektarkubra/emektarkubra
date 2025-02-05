@@ -4,9 +4,6 @@
 <h2 align="center">Frontend Developer from Turkey</h2>
 
 ###
-
-<p align="left">📚 I'm currently learning Java..
-  <br>
 🎯  My first primary goal revolves around further refining my skills, aiming to become a proficient and innovative developer.</p>
 
 ###
