@@ -23,8 +23,8 @@ Alongside frontend development, I explore Artificial Intelligence, LLM-based and
 
 <h3 align="left">Languages and tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,react,redux,typescript,nextjs,vue,python,git,github,gitlab,html,css,bootstrap,sass,tailwind,materialui&perline=17" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="35" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,redux,typescript,nextjs,vue,python,java,spring,git,github,gitlab,html,css,bootstrap,sass,tailwind,materialui&perline=18" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="34" />
 </div>
 
 
