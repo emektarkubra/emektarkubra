@@ -4,20 +4,14 @@
 Frontend Developer • Building modern web applications • Exploring AI-powered features
 </p>
 
-
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a Frontend Developer focused on building modern, user-friendly web applications.
 
-Alongside frontend development, I explore Artificial Intelligence, LLM-based and AI-Agent systems to create products that combine great user experience with intelligent functionality.
+Alongside frontend development, I explore Artificial Intelligence, LLM-based and AI-Agent systems, NLP and RAG architectures to create products that combine great user experience with intelligent functionality.
 
-•⁠  ⁠💻 Frontend Developer focused on React ecosystem
-•⁠  ⁠🎨 Passionate about modern UI and user experience
-•⁠  ⁠🤖 Exploring AI-powered features and LLM applications
-•⁠  ⁠🔎 Experimenting with NLP and RAG systems
-•⁠  ⁠⚡ Interested in building intelligent web products
 
 ---
 
